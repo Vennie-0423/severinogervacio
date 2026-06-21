@@ -1,2 +1,2 @@
 # severinogervacio
-academic
+Graph Theorist
